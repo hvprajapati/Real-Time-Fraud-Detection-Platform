@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+optuna
+shap
+matplotlib
+fastapi
+uvicorn
+kafka-python
+pydantic
+python-dotenv
+kaggle
